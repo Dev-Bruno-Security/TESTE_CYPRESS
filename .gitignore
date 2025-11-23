@@ -1,0 +1,26 @@
+# Node/Cypress
+node_modules/
+.package-lock.json
+npm-debug.log*
+
+# Cypress output
+cypress/videos/
+cypress/screenshots/
+
+# Env files
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# Coverage (if added later)
+coverage/
+
+# Misc
+*.zip
